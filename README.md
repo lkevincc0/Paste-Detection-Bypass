@@ -13,7 +13,7 @@ To install the necessary dependencies, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone git@github.com:lkevincc0/Paste-Detection-Bypass.git
+    git clone https://github.com/lkevincc0/Paste-Detection-Bypass.git
     ```
 
 2. Navigate into the project directory:
