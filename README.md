@@ -11,8 +11,10 @@
 The purpose of this project is to bypass the automatic paste detection (physically) of the code learning site, such as Grok Academy.
 
 ### Prerequisites
-The key factor for success is to configure the environment correctly and turn off the auto-indentation in the editor.  
+1. The key factor for success is to configure the environment correctly and turn off the auto-indentation in the editor.  
 For example, for Grok Academy, you should go to settings and adjust the value for "Indent using space(s)" to `-1`.
+
+2. Highly reconmend use conda or venv.
 
 ### Installation
 
@@ -75,8 +77,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 该项目的目的是绕过代码学习网站的自动粘贴检测（物理方式），例如 Grok Academy。
 
 ### 前提条件
-成功的关键是正确配置环境，并关闭编辑器中的自动缩进功能。  
+1. 成功的关键是正确配置环境，并关闭编辑器中的自动缩进功能。  
 例如，对于 Grok Academy，您应进入设置并将 "Indent using space(s)" 的值调整为 `-1`。
+2. 建议使用conda或者venv搭建虚拟环境使用
 
 ### 安装
 
