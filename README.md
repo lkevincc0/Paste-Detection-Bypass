@@ -29,7 +29,7 @@ To install the necessary dependencies, follow these steps:
     ```
 
 ## Usage
-
+Paste your code into code.txt
 ### For Linux/macOS (using `run.sh`):
 1. Execute the `run.sh` file:
 
@@ -49,4 +49,8 @@ Or, manually activate the environment and run the script:
 ```cmd
 conda activate myenv
 python main.py
+
+### Then,
+Move the mouse and click on the input box
+
 
